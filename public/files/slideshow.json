@@ -1,0 +1,28 @@
+[
+	{
+		"src": "../images/slideshow/slide1.jpg",
+		"text1": "some text1 ...",
+		"text2": "an other text2 for example ..."
+	},
+	{
+		"src": "../images/slideshow/slide2.jpg",
+		"text1": "some text2 ..."
+	},
+	{
+		"src": "../images/slideshow/slide3.jpg",
+		"text1": "some text3 ...",
+		"text2": "an other text2 for example ..."
+	},
+	{
+		"src": "../images/slideshow/slide4.jpg",
+		"text1": "some text3 ..."
+	},
+	{
+		"src": "../images/slideshow/slide5.jpg"
+	},
+	{
+		"src": "../images/slideshow/slide6.jpg",
+		"text1": "some text3 ...",
+		"text2": "an other text2 for example ..."
+	}
+]
